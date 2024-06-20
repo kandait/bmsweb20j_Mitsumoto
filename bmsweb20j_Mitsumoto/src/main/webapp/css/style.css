@@ -1,0 +1,15 @@
+h1{
+	text-align: center
+}
+p{
+	text-align: center
+}
+hr{
+	height: 3;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
