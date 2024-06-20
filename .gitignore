@@ -20,9 +20,9 @@
 *.rar
 
 # Eclipse project files
-!.project
-!.classpath
-!.settings
+!/bmsweb20j_Mitsumoto/.project
+!/bmsweb20j_Mitsumoto/.classpath
+!/bmsweb20j_Mitsumoto/.settings
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
